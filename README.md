@@ -120,4 +120,4 @@ CERT - Computer emergency response team | CSIRT - Computer security incident res
 - Přijímá oznámení kontaktních údajů, incidentů a vyhodnocuje je
 - Poskytuje povinným subjektům pomoc, součinnost
 - Hodnocení zranitelností
-- Týmy interní, koordinační, vendor, vrcholové
+- Týmy interní, koordinační, vendor, vrcholové (národní - last resort když už nevím kam, vládní - řeší incidenty s bezpečností státu, správy...)
